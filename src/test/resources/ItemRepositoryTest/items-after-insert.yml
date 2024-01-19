@@ -1,0 +1,4 @@
+items:
+  - id: "regex:\\d+"
+    name: "New Name"
+    value: null

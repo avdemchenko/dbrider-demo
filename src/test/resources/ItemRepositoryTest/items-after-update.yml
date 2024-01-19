@@ -1,0 +1,8 @@
+items:
+  - id: 1
+    name: hello
+    value: 42
+
+  - id: 2
+    name: abc
+    value: 888
